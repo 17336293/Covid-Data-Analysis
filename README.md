@@ -1,4 +1,4 @@
-Covid-Data-Analysis
+# Covid-Data-Analysis
 This was one of my first major project as a data analysit. I was granted access to a subset of data from the Centre of Disease Control (CDC). 
 
 
